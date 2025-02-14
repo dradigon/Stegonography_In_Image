@@ -46,7 +46,7 @@ python d.py
 │-- e.py  # Encryption GUI
 │-- d.py  # Decryption GUI
 │-- README.md  # Project Documentation
-│-- myimage.png  # Output Image
+│-- mypic.png  # Output Image
 ```
 
 ## 🔗 Future Enhancements
